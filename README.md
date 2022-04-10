@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Beatvictor91
 - 👀 I’m interested in Decentralization
-- 🌱 I’m currently learning Paython
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on creating Ravencoin services
 - 📫 How to reach me ... @beatvictor91
 
